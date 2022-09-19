@@ -1,0 +1,1 @@
+WALMART_BASE_URL='https://www.walmart.com'
